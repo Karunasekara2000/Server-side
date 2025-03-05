@@ -4,7 +4,7 @@ const express = require('express');
 const app = express();
 
 //port number which the server listen on
-const port = 3000;
+const port = 3500;
 
 //enables json data objects to pass in express
 app.use(express.json());
